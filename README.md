@@ -1,4 +1,5 @@
 # Luis Alberto Macías Barrales
+### Matemático, Analista de datos y científico de datos 
 
 Mi nombre es Alberto Macías. Por ahora, me encuentro terminando una maestría en matemáticas en la UNAM y también me estoy preparando como científico de datos de manera autodidacta. 
 
