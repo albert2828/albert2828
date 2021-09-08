@@ -1,6 +1,8 @@
 # Luis Alberto Macías Barrales
 ### Matemático, Analista de datos y científico de datos 
 
+[CV](https://github.com/albert2828/Portafolio_Alberto/blob/main/CV_Luis_Alberto_Mac%C3%ADas_Barrales.pdf)
+
 Mi nombre es Alberto Macías. Por ahora, me encuentro terminando una maestría en matemáticas en la UNAM y también me estoy preparando como científico de datos de manera autodidacta. 
 
 Como científico de datos, me interesa el análisis de datos con el fin de adquirir nuevos conocimientos apartir de ellos. Soy entusiaste de la visualización de datos, el big data, el procesamiento del lenguaje natural y del machine learning. He realizado algunos proyectos personales, los cuáles pueden ser consultados en mi [portafolio](https://github.com/albert2828/Portafolio_Alberto).
