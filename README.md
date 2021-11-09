@@ -11,4 +11,4 @@ Mi área de especialidad como matemático es la topología algebraica, particula
 
 Fuera del mundo de las matemáticas y los datos, me considero un devorador de libros, particularmente de novelas y cuentos, aunque también me gusta la poesía y el ensayo lírico. A veces escribo reseñas en [Goodreads](https://www.goodreads.com/user/show/55017992-alberto-mac-as). También me gusta escribir, de forma casual. Otro de mis grandes intereses es la música. Soy apasionado del rock y el heavy metal, pero disfruto también del hiphop, el reguetón, el pop, el jazz, el soul y muchos más géneros.
 
-La forma más sencilla de contactarme es por medio de mi [Twiter](https://twitter.com/bhherto95).
+La forma más sencilla de contactarme es por medio de mi [Twiter](https://twitter.com/bhherto95) o de mi perfil de [LinkedIn](https://www.linkedin.com/in/luis-alberto-mac%C3%ADas-barrales-2b2b33217/).
